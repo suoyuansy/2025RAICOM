@@ -1,0 +1,4 @@
+{
+    "cortex-debug.armToolchainPath": "C:\\msys64\\mingw64\\bin",
+    "cortex-debug.openocdPath": "C:\\msys64\\mingw64\\bin\\openocd.EXE"
+}
